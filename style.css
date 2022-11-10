@@ -1,0 +1,110 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.container-fluid{
+    padding: 0 3%;
+}
+
+.signup{
+    margin: 0px 13px; 
+    padding: 6px 25px;
+}
+
+.cn-recruitment{
+    padding: 7% 15%;
+}
+
+.title{
+    padding: 3% 2%;
+    
+}
+.text{
+    padding: 0 3% 5% 0;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.trial{
+    padding: 3%;
+}
+.image{
+    height: auto ;
+    width: 80% ; 
+    margin: 7%;
+    position: sticky;
+    border: 3px solid black;
+}
+#Trustees{
+    padding: 7% 15%;
+    background-color: rgb(237, 161, 62);
+    text-align: center;
+}
+
+.logo{
+    height: 80px;
+    border-radius: 100%;
+    margin: 2%;
+}
+
+#product-design{
+    padding: 7% 15%;
+    background-color: #F2F2F2;
+    
+}
+#product-design2{
+    padding: 7% 15%;
+    background-color: rgb(237, 161, 62);
+    
+}
+.design-img{
+    border-radius: 100%;
+    height: 40px;
+}
+
+#about{
+    padding: 7% 15%;
+}
+
+.author{
+    background-color: black;
+    color: white;
+    padding: 4%;
+}
+.authorh1{
+    padding-bottom: 7%;
+}
+.authorimg{
+    height: 250px;
+    width: 300px;
+    /* justify-content: center; */
+}
+.sells{
+    background-color: lightgrey;
+    margin: 2% 0;
+    padding: 5%;
+}
+.sells-text{
+    text-align: justify;
+    padding: 3% 0;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#Maria{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(237, 161, 62);
+}
+#started{
+    padding: 7% 35%;
+    text-align: center;
+    background-color: #F2F2F2;
+    
+}
+#footer{
+    padding: 7% 15%;
+    text-align: justify;
+}
+.foot-border{
+    border-right: 2px solid black;
+    padding: 0 6%;
+}
